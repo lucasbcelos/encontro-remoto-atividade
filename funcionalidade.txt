@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Arquivo teste de funcionalidade (teste 1)
+=======
+teclado
+raphael
+>>>>>>> fc281ee99b28c36f8c8db8eefc35d2aa00ec3fa5
